@@ -1,0 +1,11 @@
+//
+//  AppConfig.xcconfig
+//  Blu Transfer List
+//
+//  Created by Amir Hormozi on 8/2/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+BASE_URL = f4117d13-9358-4984-854e-af1cd0c8c536.mock.pstmn.io/
